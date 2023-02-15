@@ -1,0 +1,7 @@
+So we have a lot to do:
+    Actually read the images from the video
+    Apply filter
+    show them
+Luckily for us, the filters are all created with an interface, so dealing with that should (hopefully) be easy
+Though, never doubt the power of Apple Inc. to make it harder for us.
+I just hope that this can be made to be fast
